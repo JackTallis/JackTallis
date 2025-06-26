@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=606641" style='border:none;'></iframe>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTallis&layout=compact&show_icons=true&theme=dark)
