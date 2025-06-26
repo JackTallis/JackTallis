@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<center><img src="https://tryhackme-badges.s3.amazonaws.com/JackTallis.png" alt="TryHackMe"></center>
+<center><img src="https://tryhackme-badges.s3.amazonaws.com/JackTallis.png" alt="Your Image Badge" /></center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
 
