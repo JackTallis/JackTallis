@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=606641" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/JackTallis.png" alt="Your Image Badge" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
 
