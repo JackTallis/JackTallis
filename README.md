@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<center><img src="https://tryhackme-badges.s3.amazonaws.com/JackTallis.png" alt="Your Image Badge" /></center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTallis&layout=compact&show_icons=true&theme=dark)
 
 <!--
 **JackTallis/JackTallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
