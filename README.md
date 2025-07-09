@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
-
-
 <p float="left">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacktallis&theme=github_dark)
