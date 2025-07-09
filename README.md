@@ -4,6 +4,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTallis&show_icons=true&theme=dark)
 
 
+<p float="left">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacktallis&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jacktallis&theme=github_dark)
+  
+</p>
+
+<p float="left">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jacktallis&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jacktallis&theme=github_dark)
+
+</p>
+
+
 <!--
 **JackTallis/JackTallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
