@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+- Programming Languages
+  - Python 
+  - C++
+  - JavaScript
+  - Assembly
+  - Rust
+- Interests
+  - Machine learning
+  - Reverse Engineering
+  - Forensic computing
+
 <p float="left">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacktallis&theme=github_dark)
