@@ -2,9 +2,7 @@
 
 - Programming Languages
   - Python 
-  - C++
-  - JavaScript
-  - Assembly
+  - C
   - Rust
 - Interests
   - Machine learning
